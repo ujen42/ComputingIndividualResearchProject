@@ -59,7 +59,7 @@ The data is collected from HealthData.gov, a U.S. government health data reposit
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/chenchugokuljangam13/Patients-Health-Analysis-using-Machine-Learning.git
+   git clone https://github.com/ujen42/PatientCareOptimization.git
 
 2. **Create a virtual environment (optional):**
    ```bash
@@ -100,7 +100,7 @@ The data is collected from HealthData.gov, a U.S. government health data reposit
   - Make Predictions
   - Calculate Accuracy
   - Generate Classification Report
-  - Generate Confusion Matrix for each classifier
+  - Generate Confusion Matrix and ROC Curve for each classifier
 - Model Testing
   - Stores the accuracy
   - Plot confusion matrix and ROC curve
