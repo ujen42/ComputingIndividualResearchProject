@@ -82,7 +82,7 @@ def UserHome(request):
 
 
 def DatasetView(request):
-    path = settings.MEDIA_ROOT + "//" + 'patients.csv'
+    path = settings.MEDIA_ROOT + "//" + 'data01.csv'
     df = pd.read_csv(path, nrows=8000)
     df = df.to_html
     return render(request, 'users/viewdataset.html', {'data': df})
