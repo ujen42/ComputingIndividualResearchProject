@@ -136,6 +136,7 @@ The data is collected from HealthData.gov, a U.S. government health data reposit
 - **User Registration**
   ![User Register Form](media/patientuserregister.png)
 - **Confusion matrix**
+  
   ![AdaBoostClassifier](confusion_matrix_AdaBoostClassifier.png)
   ![CatBoostClassifier](confusion_matrix_CatBoostClassifier.png)
   ![LBGMClassifier](confusion_matrix_LBGMClassifier.png)
@@ -147,6 +148,7 @@ The data is collected from HealthData.gov, a U.S. government health data reposit
   ![RidgeClassifier](confusion_matrix_RidgeClassifier.png)
   ![XGBoostClassifier](confusion_matrix_XGBoostClassifier.png)
 - **ROC curve**
+  
   ![AdaBoostClassifier](roc_curve_AdaBoostClassifier.png)
   ![CatBoostClassifier](roc_curve_CatBoostClassifier.png)
   ![LBGMClassifier](roc_curve_LBGMClassifier.png)
