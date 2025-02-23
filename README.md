@@ -1,4 +1,4 @@
-# Patients Health Analysis using Machine Learning
+# Patients Care Optimization using Machine Learning
 
 ## Project Overview
 This project explores the application of machine learning techniques in analyzing patient health data to improve healthcare outcomes. The primary objective is to develop a predictive model that can forecast patient health conditions based on a variety of input features such as heart rate, body mass index (BMI), and temperature.
