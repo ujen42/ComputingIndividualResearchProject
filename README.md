@@ -110,13 +110,13 @@ The data is collected from HealthData.gov, a U.S. government health data reposit
 ## Classifiers
 - RandomForestClassifier
 - RidgeClassifier
-- ExtraTreesClassifier
+- LGBMClassifier
 - LogisticRegression
 - GradientBoostingClassifier
 - AdaBoostClassifier
-- KNeighborsClassifier
+- CatBoostClassifier
 - GaussianNB
-- DecisionTreeClassifier
+- SGDClassifier
 - XGBClassifier
 
 ## Prediction
@@ -141,7 +141,7 @@ The data is collected from HealthData.gov, a U.S. government health data reposit
   ![CatBoostClassifier](confusion_matrix_CatBoostClassifier.png)
   ![LBGMClassifier](confusion_matrix_LBGMClassifier.png)
   ![GradientBoostingClassifier](confusion_matrix_GradientBoostingClassifier.png)
-  ![SDGClassifier](confusion_matrix_SDGClassifier.png)
+  ![SGDClassifier](confusion_matrix_SGDClassifier.png)
   ![LogisticRegression](confusion_matrix_LogisticRegression.png)
   ![NaiveBayes](confusion_matrix_NaiveBayes.png)
   ![RandomForestClassifier](confusion_matrix_RandomForestClassifier.png)
@@ -153,7 +153,7 @@ The data is collected from HealthData.gov, a U.S. government health data reposit
   ![CatBoostClassifier](roc_curve_CatBoostClassifier.png)
   ![LBGMClassifier](roc_curve_LBGMClassifier.png)
   ![GradientBoostingClassifier](roc_curve_GradientBoostingClassifier.png)
-  ![SDGClassifier](roc_curve_SDGClassifier.png)
+  ![SGDClassifier](roc_curve_SGDClassifier.png)
   ![LogisticRegression](roc_curve_LogisticRegression.png)
   ![NaiveBayes](roc_curve_NaiveBayes.png)
   ![RandomForestClassifier](roc_curve_RandomForestClassifier.png)
